@@ -1,0 +1,31 @@
+.background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #b3cde0;
+}
+
+.header-bg {
+  background-color: #6497b1;
+}
+
+.btn-bg {
+  background-color: #011f4b;
+}
+
+.div-width {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.space-around {
+  justify-content: space-around;
+}
+.flex-right {
+  float: right;
+}
